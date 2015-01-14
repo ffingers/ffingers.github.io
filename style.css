@@ -96,8 +96,8 @@ div.ui-slider{height:21px;}
 .ui-slider-track{margin:0!important}
 .full-width-slider {position:absolute;bottom:5px;width:100%;}
 .full-width-slider input {display: none;}
-.ui-slider-track.ui-mini .ui-slider-handle {height:20px;width:20px;margin:-11px 0 0 -11px;}
-.ui-slider.ui-mini{padding:0 10px 0 12px;}
+.ui-slider-track.ui-mini .ui-slider-handle {height:12px;width:12px;margin:-7px 0 0 -11px;}
+.ui-slider.ui-mini{padding:0 10px 0 25px;}
 .ui-slider-handle.ui-btn.ui-shadow {background-color:white; 
 box-shadow: 0px 4px 3px rgba(0,0,0,0.4), 0px 8px 13px rgba(0,0,0,0.1), 0px 18px 23px rgba(0,0,0,0.1);
 -webkit-box-shadow: 0px 4px 3px rgba(0,0,0,0.4), 0px 8px 13px rgba(0,0,0,0.1), 0px 18px 23px rgba(0,0,0,0.1);
