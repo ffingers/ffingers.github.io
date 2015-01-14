@@ -4,7 +4,7 @@
 .presence {background-color: #3f51b5;}/*indigo*/
 .lock {background-color: #f44336;/*red*/}
 .hello-home {background-color: #9c27b0;}/*purple*/
-.switch, .dimmer, .momentary {background-color: #4caf50;} /*green*/
+.switch, .dimmer, .momentary {background-color: #E5E5E5;} /*light grey*/
 .contact {background-color: #e91e63;}/*pink*/
 .refresh {background-color: #607d8b;} /*blue gray*/
 .temperature {background-color: #ff6f00;} /*amber 900*/
@@ -70,6 +70,7 @@ html body .spinCold .ui-group-theme-a .ui-btn, .ui-page-theme-a .ui-btn{border:0
 .opaque {opacity: 0.3;}
 
 .tile.active .icon.inactive {display:none}
+.switch.tile.active {background-color: #0091FF}
 .tile:not(.active) .icon.active {display:none}
 
 .mode:not(.Home) .icon.Home {display:none}
