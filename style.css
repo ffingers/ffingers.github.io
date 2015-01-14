@@ -1,4 +1,4 @@
-.tile {background-color: blue}
+.tile {background-color: grey}
 .weather {background-color: #a20025;}
 .clock {background-color: #607d8b;}/*blue gray*/
 .presence {background-color: #3f51b5;}/*indigo*/
@@ -35,7 +35,7 @@ body {background-color: #1d1d1d!important;}
 .h2 {height:240px;}
 
 /* reset ***********************/
-body, .ui-page{background-color:black!important;}
+body, .ui-page{background-color:blue!important;}
 * {text-shadow:none;font-family:"Mallanna",Verdana,Arial,Helvetica,sans-serif}
 .ui-overlay-a {text-shadow:none}
 .ui-li-static.ui-body-inherit {text-align:center; cursor:pointer;}
